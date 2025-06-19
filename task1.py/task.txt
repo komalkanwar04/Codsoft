@@ -1,0 +1,2 @@
+study|True
+exercise|True
